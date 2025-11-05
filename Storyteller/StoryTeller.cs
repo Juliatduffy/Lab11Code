@@ -10,7 +10,7 @@ namespace CS3500.Storybot;
 using StoryTellerModel;
 /// <summary>
 ///   <para>
-///     Author: H. James de St. Germain.
+///     Author: H. James de St. Germain. And Julia Duffy.
 ///   </para>
 ///   <para>
 ///     Date:    Spring 2022
