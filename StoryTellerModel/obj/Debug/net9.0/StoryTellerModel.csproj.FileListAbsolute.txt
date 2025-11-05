@@ -1,0 +1,15 @@
+C:\Users\jtduf\source\repos\labs\Lab11-Storyteller\StoryTellerModel\bin\Debug\net9.0\StoryTellerModel.deps.json
+C:\Users\jtduf\source\repos\labs\Lab11-Storyteller\StoryTellerModel\bin\Debug\net9.0\StoryTellerModel.dll
+C:\Users\jtduf\source\repos\labs\Lab11-Storyteller\StoryTellerModel\bin\Debug\net9.0\StoryTellerModel.pdb
+C:\Users\jtduf\source\repos\labs\Lab11-Storyteller\StoryTellerModel\bin\Debug\net9.0\Networking.dll
+C:\Users\jtduf\source\repos\labs\Lab11-Storyteller\StoryTellerModel\bin\Debug\net9.0\Networking.xml
+C:\Users\jtduf\source\repos\labs\Lab11-Storyteller\StoryTellerModel\obj\Debug\net9.0\StoryTellerModel.csproj.AssemblyReference.cache
+C:\Users\jtduf\source\repos\labs\Lab11-Storyteller\StoryTellerModel\obj\Debug\net9.0\StoryTellerModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jtduf\source\repos\labs\Lab11-Storyteller\StoryTellerModel\obj\Debug\net9.0\StoryTellerModel.AssemblyInfoInputs.cache
+C:\Users\jtduf\source\repos\labs\Lab11-Storyteller\StoryTellerModel\obj\Debug\net9.0\StoryTellerModel.AssemblyInfo.cs
+C:\Users\jtduf\source\repos\labs\Lab11-Storyteller\StoryTellerModel\obj\Debug\net9.0\StoryTellerModel.csproj.CoreCompileInputs.cache
+C:\Users\jtduf\source\repos\labs\Lab11-Storyteller\StoryTellerModel\obj\Debug\net9.0\StoryTel.D0BABB20.Up2Date
+C:\Users\jtduf\source\repos\labs\Lab11-Storyteller\StoryTellerModel\obj\Debug\net9.0\StoryTellerModel.dll
+C:\Users\jtduf\source\repos\labs\Lab11-Storyteller\StoryTellerModel\obj\Debug\net9.0\refint\StoryTellerModel.dll
+C:\Users\jtduf\source\repos\labs\Lab11-Storyteller\StoryTellerModel\obj\Debug\net9.0\StoryTellerModel.pdb
+C:\Users\jtduf\source\repos\labs\Lab11-Storyteller\StoryTellerModel\obj\Debug\net9.0\ref\StoryTellerModel.dll
